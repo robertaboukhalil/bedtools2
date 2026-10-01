@@ -75,6 +75,6 @@ Merge nearby repetitive elements into a single entry, so long as they are within
 
 .. raw:: html
 
-   <script src="https://stg.sandbox.bio/embed.js"
+   <script src="https://sandbox.bio/embed.js"
            data-config="../_static/sandboxbio.json"
            data-cwd="bedtools-quickstart"></script>
